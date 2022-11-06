@@ -1,6 +1,6 @@
 # mybutton-egebyte
 
-> A button component created for Patika.dev React Course&#x27;s 4th Homework
+> A button component created for [Patika.dev](https://app.patika.dev/paths) React Course&#x27;s 4th Homework
 
 [![NPM](https://img.shields.io/npm/v/mybutton-egebyte.svg)](https://www.npmjs.com/package/mybutton-egebyte) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
