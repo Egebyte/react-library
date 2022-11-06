@@ -1,9 +1,49 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
-  text-align: center;
+button{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifw;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.primary {
+  background: #0275d8;
+  color: white;
+  border: transparent;
+}
+.default {
+  background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.284);
+}
+.dashed {
+  background: transparent;
+  border: 1px dashed;
+}
+
+.text {
+  border: transparent;
+  background: transparent;
+}
+
+.link {
+  background: transparent;
+  color: #0275d8;
+  border: transparent;
+}
+
+.link:hover {
+  color: #3c95e3;
+}
+
+.primary:hover{
+  background: #3c95e3;
+}
+
+.default:hover{
+  border-color: #3c95e3;
+  color: #3c95e3;
+}
+.dashed:hover{
+  border-color: #3c95e3;
+  color: #3c95e3;
 }
